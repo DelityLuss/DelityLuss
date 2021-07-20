@@ -42,14 +42,14 @@ I am interested in learning java,html,AI and would 💖 to grow my knowledge in 
   </a>
 
 <a href="https://github.com/DelityLuss">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=DelityLuss&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DelityLuss&show_icons=true&theme=tokyonight&line_height=27"/>
 </a>
 
 <br/>
 <br/>
 <br/>
 
-### Show ❤️ by 🌟 my [repositories](https://github.com/Davekibh?tab=repositories)!
+### Show ❤️ by 🌟 my [repositories](https://github.com/DelityLuss?tab=repositories)!
 
 </div>
 
