@@ -2,7 +2,7 @@
 
 <img  alt="GIF" src="https://cdn.discordapp.com/attachments/740628758674931794/866793711417425969/tenor.gif" />
 
-### A propos🧑:
+### ABOUT🧑:
 
 I am Computer Engineering student and i learn Python.<br/>
 I am interested in learning java,html,AI and would 💖 to grow my knowledge in these Technologies.
