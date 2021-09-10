@@ -5,7 +5,7 @@
 ### ABOUT🧑:
 
 I am Computer Engineering student and i learn Python.<br/>
-I am interested in learning java,html,AI and would 💖 to grow my knowledge in these Technologies.
+I am interested in learning python, html, php, js and would 💖 to grow my knowledge in these Technologies.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="400" height="280" />
 
