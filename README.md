@@ -4,13 +4,12 @@
 
 ### ABOUT🧑:
 
-I am Computer Engineering student and i learn Python.<br/>
-I am interested in learning python, html, php, js and would 💖 to grow my knowledge in these Technologies.
+I am a student in networks & telecommunication 🚀.<br/>
+I am interested in learning Python, HTML, PHP, Javascripts and wish to develop my knowledge in these Technologies.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="400" height="280" />
 
 - 🔭 I am currently working on several projects on Python.
-- 🌱 I’m currently learning Python, html.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
 - 🎢 Profile Visitors Count:
